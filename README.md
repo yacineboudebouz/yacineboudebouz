@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on 2CP project.
   
 
-- 🌱 I’m currently learning Flutter  
+- 🌱 I’m currently learning Flutter.
   
 
 - ❓ Ask me about anything related to Moblie Developement   
