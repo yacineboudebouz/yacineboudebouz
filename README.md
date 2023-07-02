@@ -6,7 +6,7 @@
 ### <div align="center">I'm Yacine, i am junior Mobile Developer</div>  
   
 
-- 🔭 I’m currently deep learn flutter
+- 🔭 I’m currently working on expense app.
   
 
 - 🌱 I’m currently learning Flutter.
