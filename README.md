@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to Moblie Developement   
   
 
-- ⚡ Fun fact: I am not Stupid XD  
+- ⚡ Quote : i need money. 
   
 
 <br/>  
