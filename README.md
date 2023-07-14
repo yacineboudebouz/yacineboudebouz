@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to Moblie Developement   
   
 
-- ⚡ Quote : i need money. 
+- ⚡ Quote : i need money, i want a work
   
 
 <br/>  
