@@ -66,8 +66,9 @@
 </td></tr></table>  
 
 <br/>  
+<p>&nbsp;<img align="center" src="https://streak-stats.demolab.com/?user=yacineboudebouz&theme=highcontrast" alt="yacineboudebouz" /></p>
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yacineboudebouz&layout=compact&count_private=true&theme=dark&hide=c%2b%2b,Cmake,ShaderLab,Makefile,Mathematica,HLSL,rOFF,SWIFT,Unity3D%20Asset&langs_count=10" alt="1farz1" /></p>
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/yacineboudebouz" target="_blank">
