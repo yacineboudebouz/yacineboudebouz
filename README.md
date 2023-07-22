@@ -7,10 +7,10 @@
 ### <div align="center">I'm Yacine, i am junior Mobile Developer</div>  
   
 
-- 🔭 I’m currently working on expense app.
+- 🔭 I’m currently working on Chat App
   
 
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning Front End.
   
 
 - ❓ Ask me about anything related to Moblie Developement   
