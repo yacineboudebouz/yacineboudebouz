@@ -17,7 +17,7 @@
 - ❓ Ask me about anything related to Moblie Developement   
   
 
-- ⚡ Quote : i need money, i want a work
+- ⚡ Quote : hit the stack till it overflows
   
 
 <br/>  
