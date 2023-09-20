@@ -5,7 +5,7 @@
 ### <div align="center">I'm Yacine, i am junior Mobile Developer</div>  
   
 
-- 🔭 I’m currently working on Reddit Clone
+- 🔭 I’m currently working on Full-Stack amazon clone
   
 
 - 🌱 I’m currently learning Front End.
