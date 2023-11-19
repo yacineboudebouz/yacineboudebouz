@@ -5,10 +5,10 @@
 ### <div align="center">I'm Yacine, i am junior Mobile Developer</div>  
   
 
-- 🔭 I’m currently working on 7eyo's portfolio
+- 🔭 I’m currently working on What's App clone with flutter.
   
 
-- 🌱 I’m currently learning Front End.
+- 🌱 I’m currently learning Express js.
   
 
 - ❓ Ask me about anything related to Moblie Developement   
