@@ -5,10 +5,10 @@
 ### <div align="center">I'm Yacine, i am junior Mobile Developer</div>  
   
 
-- 🔭 I’m currently working on Google docs clone with flutter.
+- 🔭 I’m currently working on Advanced flutter app.
   
 
-- 🌱 I’m currently learning Express js.
+- 🌱 I’m currently learning Nest JS.
   
 
 - ❓ Ask me about anything related to Moblie Developement   
