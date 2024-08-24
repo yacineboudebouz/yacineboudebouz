@@ -9,7 +9,7 @@
   
 
 
-- 🌱 I’m currently learning Nest JS.
+- 🌱 I’m currently learning Ai and Data science.
   
 
 - ❓ Ask me about anything related to Moblie Developement   
