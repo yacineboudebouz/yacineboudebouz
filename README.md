@@ -29,10 +29,8 @@
 
 
 <br/>  
-<p>&nbsp;<img align="center" src="https://streak-stats.demolab.com/?user=yacineboudebouz&theme=highcontrast" alt="yacineboudebouz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yacineboudebouz&layout=compact&count_private=true&theme=dark&hide=c%2b%2b,Cmake,ShaderLab,Makefile,Mathematica,HLSL,rOFF,SWIFT,Unity3D%20Asset&langs_count=10" alt="1farz1" /></p>
-## Connect with me  
+<p>&nbsp;<img align="center" src="https://streak-stats.demolab.com/?user=yacineboudebouz&theme=highcontrast" alt="yacineboudebouz" /></p>   
+<br/>  
 <div align="center">
 <a href="https://github.com/yacineboudebouz" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -49,25 +47,7 @@
 </div>  
   
 
-<br/>  
 
-
-## Github Stats  
-
-
-### Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yacineboudebouz&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-
-
-<br/>  
-
-  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=yacineboudebouz&&style=flat-square" align="center" />
